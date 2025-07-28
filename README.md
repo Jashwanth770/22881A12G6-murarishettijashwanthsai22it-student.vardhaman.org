@@ -33,3 +33,10 @@ $ npm run dev
 and you will see react app on http://localhost:3000
 
 
+Author
+Jashwanthsai murarishetti
+murarishettijashwanthsai22it@student.vardhaman.org
+jashwanthsai8630@gmail.com
+
+
+
